@@ -5,7 +5,7 @@ import java.nio.ByteBuffer;
 /**
  * @author : Kristen
  * @date : 2022/4/9
- * @description :
+ * @description : 分配直接缓冲区
  */
 public class TestBuffer9 {
     public static void main(String[] args) {

@@ -5,7 +5,7 @@ import java.nio.ByteBuffer;
 /**
  * @author : Kristen
  * @date : 2022/4/9
- * @description :
+ * @description : 重复读取数据
  */
 public class TestBuffer5 {
     public static void main(String[] args) {

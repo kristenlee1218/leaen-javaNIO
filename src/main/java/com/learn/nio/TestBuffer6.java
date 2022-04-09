@@ -5,7 +5,8 @@ import java.nio.ByteBuffer;
 /**
  * @author : Kristen
  * @date : 2022/4/9
- * @description :
+ * @description : 清空缓冲区、但是缓冲区的数据依然存在、
+ * 但是处于 “被遗忘” 的状态
  */
 public class TestBuffer6 {
     public static void main(String[] args) {

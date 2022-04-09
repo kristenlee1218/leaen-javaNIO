@@ -5,7 +5,7 @@ import java.nio.ByteBuffer;
 /**
  * @author : Kristen
  * @date : 2022/4/9
- * @description :
+ * @description : 标记
  */
 public class TestBuffer7 {
     public static void main(String[] args) {

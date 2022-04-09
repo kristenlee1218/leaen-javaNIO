@@ -5,7 +5,7 @@ import java.nio.ByteBuffer;
 /**
  * @author : Kristen
  * @date : 2022/4/9
- * @description :
+ * @description : 读取数据到缓冲区
  */
 public class TestBuffer4 {
     public static void main(String[] args) {
